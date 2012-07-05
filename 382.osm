@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="Merkaartor 0.18">
+  <node id="972212172" timestamp="2010-10-31T14:04:43Z" version="1" user="lollo" actor="2" lon="38.8673429" lat="56.7395491"/>
+  <way id="83492351" timestamp="2012-04-10T05:20:29Z" version="5" user="lollo" actor="2" selected="true">
+    <BoundingBox>
+      <topright lon="38.8725542" lat="56.7403636"/>
+      <bottomleft lon="38.8673429" lat="56.7373135"/>
+    </BoundingBox>
+    <nd ref="972212172"/>
+    <nd ref="972212158"/>
+    <nd ref="972212164"/>
+    <nd ref="972212161"/>
+    <nd ref="972212170"/>
+    <nd ref="972212168"/>
+    <nd ref="1583410200"/>
+    <nd ref="1583410203"/>
+    <nd ref="1137703106"/>
+    <nd ref="972212157"/>
+    <nd ref="972212167"/>
+    <nd ref="972212163"/>
+    <nd ref="972212169"/>
+    <nd ref="972212166"/>
+    <nd ref="972212172"/>
+    <tag k="addr:city" v="Переславль-Залесский"/>
+    <tag k="addr:country" v="RU"/>
+    <tag k="addr:housenumber" v="42А"/>
+    <tag k="addr:region" v="Ярославская область"/>
+    <tag k="addr:street" v="улица Свободы"/>
+    <tag k="amenity" v="hospital"/>
+    <tag k="full_name" v="Государственное бюджетное учреждение Ярославской области Переславская центральная районная больница"/>
+    <tag k="name" v="Переславская центральная районная больница"/>
+  </way>
+  <node id="972212158" timestamp="2010-10-31T14:04:42Z" version="1" user="lollo" actor="2" lon="38.8676220" lat="56.7383007"/>
+  <node id="972212164" timestamp="2010-10-31T14:04:43Z" version="1" user="lollo" actor="2" lon="38.8677755" lat="56.7380413"/>
+  <node id="972212161" timestamp="2010-10-31T14:04:42Z" version="1" user="lollo" actor="2" lon="38.8679531" lat="56.7379428"/>
+  <node id="972212170" timestamp="2012-01-09T00:18:51Z" version="2" user="lollo" actor="2" lon="38.8692277" lat="56.7378001"/>
+  <node id="972212168" timestamp="2012-01-09T00:18:51Z" version="2" user="lollo" actor="2" lon="38.8723069" lat="56.7373135"/>
+  <node id="1583410200" timestamp="2012-01-09T00:18:17Z" version="1" user="lollo" actor="2" lon="38.8725542" lat="56.7378757"/>
+  <node id="1583410203" timestamp="2012-01-09T00:18:18Z" version="1" user="lollo" actor="2" lon="38.8713442" lat="56.7379176"/>
+  <node id="1137703106" timestamp="2011-02-05T17:10:27Z" version="1" user="lollo" actor="2" lon="38.8719111" lat="56.7393471"/>
+  <node id="972212157" timestamp="2010-10-31T14:04:42Z" version="1" user="lollo" actor="2" lon="38.8703065" lat="56.7397509"/>
+  <node id="972212167" timestamp="2010-10-31T14:04:43Z" version="1" user="lollo" actor="2" lon="38.8702576" lat="56.7398015"/>
+  <node id="972212163" timestamp="2010-10-31T14:04:42Z" version="1" user="lollo" actor="2" lon="38.8699511" lat="56.7403636"/>
+  <node id="972212169" timestamp="2010-10-31T14:04:43Z" version="1" user="lollo" actor="2" lon="38.8696368" lat="56.7402710"/>
+  <node id="972212166" timestamp="2010-10-31T14:04:43Z" version="1" user="lollo" actor="2" lon="38.8680385" lat="56.7397094"/>
+  <bound box="56.737313,38.867343,56.740364,38.872554" origin="http://www.openstreetmap.org/api/0.6"/>
+</osm>
