@@ -5,7 +5,7 @@ var ikData = [
 		"type": "УИКи",
 		"pict": "images/number_{number}.png",
 		"shadow": "images/shadow.png",
-		"popupTpl": "<strong>УИК {number}</strong><br/>{obj}. {addr}, тел. {phone}"
+		"popupTpl": "<strong>УИК {number} ({count})</strong><br/>{obj}. {addr}, тел. {phone}"
 	},
 	{
 		"type": "ТИКи",
