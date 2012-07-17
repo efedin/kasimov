@@ -19,8 +19,8 @@ var ikData = [
 
 var getMapYaCentered = function() {
 	var map = new YMaps.Map(document.getElementById("map"));
-	map.setCenter(new YMaps.GeoPoint(41.35, 54.933333), 13, YMaps.MapType.MAP);
-	map.addControl(new YMaps.TypeControl([YMaps.MapType.MAP, YMaps.MapType.HYBRID, YMaps.MapType.PHYBRID, YMaps.MapType.SATELLITE]));
+	map.setCenter(new YMaps.GeoPoint(41.35, 54.933333), 13, YMaps.MapType.PMAP);
+	map.addControl(new YMaps.TypeControl([YMaps.MapType.PMAP, YMaps.MapType.PHYBRID, YMaps.MapType.SATELLITE]));
 	map.addControl(new YMaps.ToolBar());
 	map.addControl(new YMaps.Zoom());
 	map.addControl(new YMaps.ScaleLine());
